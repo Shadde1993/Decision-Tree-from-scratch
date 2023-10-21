@@ -1,1 +1,1 @@
-# Decision-Tree-from-scratch
+# Decision-Tree
